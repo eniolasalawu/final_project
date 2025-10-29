@@ -1,4 +1,4 @@
-observation_date,CPIAUCSL_PC1
+observation_date,USD Dollar Index
 1/1/1948,10.24209
 2/1/1948,9.48196
 3/1/1948,6.81818
@@ -932,3 +932,4 @@ observation_date,CPIAUCSL_PC1
 7/1/2025,2.7318
 8/1/2025,2.93922
 9/1/2025,3.0227
+
